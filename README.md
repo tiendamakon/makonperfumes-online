@@ -2,7 +2,7 @@
 Sitio para **makonperfumes.online** con Vite + React + Tailwind + formularios con FormSubmit.
 
 ## Variables que debes cambiar
-- En `src/App.jsx` edita `WHATSAPP` 0034637404653`).
+- En `src/App.jsx` edita `WHATSAPP`+34637404653`).
 
 ## Deploy rápido en Vercel
 1. Sube esta carpeta al repo de GitHub (no subas el ZIP directamente).
